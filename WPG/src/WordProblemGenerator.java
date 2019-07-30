@@ -1,5 +1,3 @@
-/* 2013112015 ÀÓÁø¼· */
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

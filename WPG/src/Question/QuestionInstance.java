@@ -1,5 +1,3 @@
-/* 2013112015 ÀÓÁø¼· */ 
- 
 package Question;
 
 public class QuestionInstance {

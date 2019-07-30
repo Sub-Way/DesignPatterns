@@ -1,5 +1,3 @@
-/* 2013112015 ÀÓÁø¼· */
-
 package Operation;
 
 import java.util.ArrayList;
